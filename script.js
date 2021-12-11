@@ -16,7 +16,7 @@ function canWe () {
 }
 
 
-//Expression 
+Expression 
 
 console.log((2 + 2));
 console.log(2 + '2');
@@ -81,3 +81,16 @@ let subtract = 10 - 5; // 5
 let multiply = 10 * 10; // 100
 let divide = 100/10; // 10
 let remainder = 3 % 2; // 1
+
+
+function add(num1, num2) {
+    console.log(num1 + num2);
+}
+add(2, 3); //5
+
+// function subtraction(num1, num2) {
+//     console.log(result); // results does not exist yet, starts below
+//     let result = num1 - num2;
+// }
+
+// subtraction(10,5);
