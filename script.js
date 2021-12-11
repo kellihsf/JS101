@@ -16,7 +16,7 @@ function canWe () {
 }
 
 
-Expression 
+//Expression 
 
 console.log((2 + 2));
 console.log(2 + '2');
@@ -36,7 +36,7 @@ let negative = -42;
 let notANumber = NaN;
 
 console.log(aString1 * aNumber); 
-this equals NaN
+//this equals NaN
 
 //TRUE OR FALSE? BOOLEAN
 
